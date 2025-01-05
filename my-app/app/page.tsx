@@ -94,7 +94,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Change made to app
+          Change made to app a second time
         </a>
       </footer>
     </div>
